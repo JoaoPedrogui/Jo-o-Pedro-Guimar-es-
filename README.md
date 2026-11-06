@@ -50,8 +50,7 @@ Contribuir com projetos de código aberto.
 Conquistar oportunidades profissionais na área de desenvolvimento de software.
 📫 Contato
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+https://github.com/JoaoPedrogui
 ⭐ Obrigado pela visita! Fique à vontade para conhecer meus projetos e acompanhar minha evolução na programação.
 
 "A melhor maneira de aprender a programar é colocando a mão no código!" 🚀
